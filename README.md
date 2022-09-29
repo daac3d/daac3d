@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daac3d
-- 👀 I’m interested in crypto
-- 🌱 I’m currently learning NFT
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on similar projects 
 - 📫 How to reach me at twitter. @danc_m
 
